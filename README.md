@@ -1,4 +1,4 @@
-angularTicker
+angularBoiler
 =============
-
-RESTful stock ticker using node.js and angular.js
+Backend: Express + coffeescript + connect + styl
+Front: Coffeescript + angular.js
