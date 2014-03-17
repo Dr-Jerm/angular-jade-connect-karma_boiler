@@ -1,6 +1,6 @@
 angularBoiler
 =============
-Backend: Express + coffeescript + connect + styl
+Backend: Express + coffeescript + connect + Jade + styl
 
 Front: Coffeescript + angular.js
 
